@@ -1,0 +1,36 @@
+{
+    "level1" : [
+        {
+            "player" : "A",
+            "id" : 1
+        },
+        {
+            "player" : "B",
+            "id" : 2
+        },
+        {
+            "player" : "C",
+            "id" : 3
+        },
+        {
+            "player" : "D",
+            "id" : 4
+        }
+    ],
+    "level2" : [
+        {
+            "player" : "B",
+            "id" : 5
+        },
+        {
+            "player" : "D",
+            "id" : 6
+        }
+    ],
+    "level3" : [
+        {
+            "player" : "B",
+            "id" : 7
+        }
+    ]
+}
